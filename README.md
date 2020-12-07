@@ -23,10 +23,3 @@
   <img src="https://img.shields.io/badge/rust%20-%23000000.svg?&style=for-the-badge&logo=rust&logoColor=white" />
   <img src="https://img.shields.io/badge/webassembly%20-%23654FF0.svg?&style=for-the-badge&logo=webassembly&logoColor=white" />
 </p>
-
-<h4>I’m looking to collaborate on ... </h4>
-
-<p>
-  <img src="https://img.shields.io/badge/ruby%20-%23e34f26.svg?&style=for-the-badge&logo=ruby&logoColor=white" />
-  <img src="https://img.shields.io/badge/rails%20-%23CC0000.svg?&style=for-the-badge&logo=ruby-on-rails&logoColor=white" />
-</p>
