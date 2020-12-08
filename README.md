@@ -1,12 +1,5 @@
 <h1 align='center'>My name is Matthew.</h1>
 
-<p align='center'>
-  <a href="https://www.linkedin.com/in/mdawber/">
-    <img src="https://img.shields.io/badge/linkedin-%230077b5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:dawber@hey.com"><img src="https://img.shields.io/badge/email-%235522fa.svg?&style=for-the-badge&logo=hey&logoColor=white" /></a>
-</p>
-
 <h4>I’m currently working with ...</h4>
 
 <p>
